@@ -1,6 +1,7 @@
 # 로컬 전용 폴더
 /private/
 /.study-cache/
+/scripts/
 
 
 # 루트 Markdown은 기본 제외 (하위 폴더의 문제 노트는 포함)
