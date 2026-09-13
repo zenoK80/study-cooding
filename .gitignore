@@ -1,0 +1,9 @@
+# 로컬 전용 폴더
+/private/
+/.study-cache/
+
+
+# 루트 Markdown은 기본 제외 (하위 폴더의 문제 노트는 포함)
+/*.[mM][dD]
+!/README.md
+!/기본md사용법.md
