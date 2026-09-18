@@ -40,6 +40,7 @@
 ---
 
 # 프로그래머스 Javascript
+## LV 0
 - [x] `2026-09-15(화)` [1. 문자열곱하기](programmers/basic/1_%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%B1%ED%95%98%EA%B8%B0.md)
 - [x] `2026-09-15(화)` [2. 홀짝에 따라 다른 값 반환하기](programmers/basic/2_%ED%99%80%EC%A7%9D%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%8B%A4%EB%A5%B8%20%EA%B0%92%20%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0.md)
 - [x] `2026-09-15(화)` [3. 조건에 맞게 수열 변환하기3](programmers/basic/3_%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EA%B2%8C%20%EC%88%98%EC%97%B4%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B03.md)
