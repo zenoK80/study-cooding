@@ -39,6 +39,19 @@
 
 ---
 
+# React
+
+## React 기초
+
+- [x] `2026-09-19(토)` [01. React란](react/01_react_basic/01_react%EB%9E%80.md)
+- [x] `2026-09-19(토)` [02. SPA와 CSR](react/01_react_basic/02_SPA%EC%99%80%20CSR.md)
+
+## Props
+
+- [x] `2026-09-19(토)` [01. Props 기본](react/02_react_props/01_props%EA%B8%B0%EB%B3%B8.md)
+
+---
+
 # 프로그래머스 Javascript
 ## LV 0
 - [x] `2026-09-15(화)` [1. 문자열곱하기](programmers/basic/1_%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%B1%ED%95%98%EA%B8%B0.md)
