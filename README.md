@@ -17,6 +17,26 @@
 - [x] `2026-09-15(화)` [13. Number와BigInt](coode/01_javascript_basic/13_Number%EC%99%80BigInt.md)
 - [x] `2026-09-15(화)` [14. Math객체](coode/01_javascript_basic/14_Math%EA%B0%9D%EC%B2%B4.md)
 
+## 02. Javascript 배열
+- [x] `2026-09-18(금)` [01. 배열생성](javascript/02_javascript_array/01_%EB%B0%B0%EC%97%B4%EC%83%9D%EC%84%B1.md)
+- [x] `2026-09-18(금)` [02. 배열순회](javascript/02_javascript_array/02_%EB%B0%B0%EC%97%B4%EC%88%9C%ED%9A%8C.md)
+- [x] `2026-09-18(금)` [03. push,pop](javascript/02_javascript_array/03_push%2Cpop.md)
+- [x] `2026-09-18(금)` [04. shift,unshift](javascript/02_javascript_array/04_shift%2Cunshift.md)
+- [x] `2026-09-18(금)` [05. slice,splice](javascript/02_javascript_array/05_slice%2Csplice.md)
+- [x] `2026-09-18(금)` [06. map](javascript/02_javascript_array/06_map.md)
+- [x] `2026-09-18(금)` [07. filter](javascript/02_javascript_array/07_filter.md)
+- [x] `2026-09-18(금)` [08. reduce](javascript/02_javascript_array/08_reduce.md)
+- [x] `2026-09-18(금)` [09. find,findIndex](javascript/02_javascript_array/09_find%2CfindIndex.md)
+- [x] `2026-09-18(금)` [10. some,every](javascript/02_javascript_array/10_some%2Cevery.md)
+- [x] `2026-09-18(금)` [11. includes,indexOf](javascript/02_javascript_array/11_includes%2CindexOf.md)
+- [x] `2026-09-18(금)` [12. sort](javascript/02_javascript_array/12_sort.md)
+- [x] `2026-09-18(금)` [13. reverse](javascript/02_javascript_array/13_reverse.md)
+- [x] `2026-09-18(금)` [14. concat](javascript/02_javascript_array/14_concat.md)
+- [x] `2026-09-18(금)` [15. join](javascript/02_javascript_array/15.join.md)
+- [x] `2026-09-18(금)` [16. 2차원배열](javascript/02_javascript_array/16_2%EC%B0%A8%EC%9B%90%EB%B0%B0%EC%97%B4.md)
+- [x] `2026-09-18(금)` [17. 배열복사](javascript/02_javascript_array/17_%EB%B0%B0%EC%97%B4%EB%B3%B5%EC%82%AC.md)
+- [x] `2026-09-18(금)` [18. 배열빈도수계산](javascript/02_javascript_array/18_%EB%B0%B0%EC%97%B4%EB%B9%88%EB%8F%84%EC%88%98%EA%B3%84%EC%82%B0.md)
+
 ---
 
 # 프로그래머스 Javascript
@@ -29,7 +49,7 @@
 - [x] `2026-09-18(금)` [7. n의 배수](cooding-test/basic/7_n%EC%9D%98%20%EB%B0%B0%EC%88%98.md)
 - [x] `2026-09-18(금)` [8. 원소들의 곱과 합](cooding-test/basic/8_%EC%9B%90%EC%86%8C%EB%93%A4%EC%9D%98%20%EA%B3%B1%EA%B3%BC%20%ED%95%A9.md)
 - [x] `2026-09-18(금)` [9. rny_string](cooding-test/basic/9_rny_string.md)
-- [ ] [10. n 번째 원소까지](cooding-test/basic/10_n%20%EB%B2%88%EC%A7%B8%20%EC%9B%90%EC%86%8C%EA%B9%8C%EC%A7%80.md)
+- [x] [10. n 번째 원소까지](cooding-test/basic/10_n%20%EB%B2%88%EC%A7%B8%20%EC%9B%90%EC%86%8C%EA%B9%8C%EC%A7%80.md)
 - [ ] [11. flag에 따라 다른 값 반환하기](cooding-test/basic/11_flag%EC%97%90%20%EB%94%B0%EB%9D%BC%20%EB%8B%A4%EB%A5%B8%20%EA%B0%92%20%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0.md)
 - [ ] [12. 배열에서 문자열 대소문자 변환하기](cooding-test/basic/12_%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0.md)
 - [ ] [13. 원하는 문자열 찾기](cooding-test/basic/13_%EC%9B%90%ED%95%98%EB%8A%94%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B0%BE%EA%B8%B0.md)
