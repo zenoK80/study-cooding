@@ -3,6 +3,8 @@
 /.study-cache/
 /scripts/
 /목차/
+/독학사/
+/자격증/
 
 # 루트 Markdown은 기본 제외 (하위 폴더의 문제 노트는 포함)
 /*.[mM][dD]
