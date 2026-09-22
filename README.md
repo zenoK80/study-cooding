@@ -37,6 +37,20 @@
 - [x] `2026-09-18(금)` [17. 배열복사](javascript/02_javascript_array/17_%EB%B0%B0%EC%97%B4%EB%B3%B5%EC%82%AC.md)
 - [x] `2026-09-18(금)` [18. 배열빈도수계산](javascript/02_javascript_array/18_%EB%B0%B0%EC%97%B4%EB%B9%88%EB%8F%84%EC%88%98%EA%B3%84%EC%82%B0.md)
 
+## 03. Javascript 문자열
+- [x] `2026-09-22(화)` [01. 문자열 순회](javascript/03_javascript_string/01_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%84%9C%ED%9A%8C.md)
+- [x] `2026-09-22(화)` [02. 문자열 자르기](javascript/03_javascript_string/02_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.md)
+- [x] `2026-09-22(화)` [03. split, join](javascript/03_javascript_string/03_split.join.md)
+- [x] `2026-09-22(화)` [04. replace, replaceAll](javascript/03_javascript_string/04_replace,replaceAll.md)
+- [x] `2026-09-22(화)` [05. include, indexOf](javascript/03_javascript_string/05_include,indexOf.md)
+- [x] `2026-09-22(화)` [06. 대소문자 처리](javascript/03_javascript_string/06_%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%20%EC%B2%98%EB%A6%AC.md)
+- [x] `2026-09-22(화)` [07. 문자코드](javascript/03_javascript_string/07_%EB%AC%B8%EC%9E%90%EC%BD%94%EB%93%9C.md)
+- [x] `2026-09-22(화)` [08. 문자열 뒤집기](javascript/03_javascript_string/08_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0.md)
+- [x] `2026-09-22(화)` [09. 팰린드롬](javascript/03_javascript_string/09_%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.md)
+- [x] `2026-09-22(화)` [10. 문자열 빈도수](javascript/03_javascript_string/10_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B9%88%EB%8F%84%EC%88%98.md)
+- [x] `2026-09-22(화)` [11. 부분 문자열](javascript/03_javascript_string/11_%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.md)
+
+
 ---
 
 # React
