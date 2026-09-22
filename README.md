@@ -38,7 +38,7 @@
 - [x] `2026-09-18(금)` [18. 배열빈도수계산](javascript/02_javascript_array/18_%EB%B0%B0%EC%97%B4%EB%B9%88%EB%8F%84%EC%88%98%EA%B3%84%EC%82%B0.md)
 
 ## 03. Javascript 문자열
-- [x] `2026-09-22(화)` [01. 문자열 순회](javascript/03_javascript_string/01_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%84%9C%ED%9A%8C.md)
+- [x] `2026-09-22(화)` [01. 문자열 순회](javascript/03_javascript_string/01_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%8A%9C%ED%9A%8C.md)
 - [x] `2026-09-22(화)` [02. 문자열 자르기](javascript/03_javascript_string/02_%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0.md)
 - [x] `2026-09-22(화)` [03. split, join](javascript/03_javascript_string/03_split,join.md)
 - [x] `2026-09-22(화)` [04. replace, replaceAll](javascript/03_javascript_string/04_replace,replaceAll.md)
