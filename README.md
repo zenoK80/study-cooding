@@ -67,6 +67,13 @@
 
 ---
 
+
+# TypeScript
+## 기초
+- [x] `2026-09-24(목)` [01. Typescript란](<typescript/01_기초/01_Typescript란.md>)
+
+---
+
 # 프로그래머스 Javascript
 ## LV 0
 - [x] `2026-09-15(화)` [1. 문자열곱하기](<programmers/basic/1_문자열곱하기.md>)
